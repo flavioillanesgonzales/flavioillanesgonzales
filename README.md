@@ -33,7 +33,6 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-<code><img height="43" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
 
 ### I Code in
 <code><img height="43" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
@@ -54,8 +53,8 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/payarafish/payarafish-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
 
-
-
+## 👋 Keep in touch
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioillanesgonzales-2864b51b8/)
 <!--
 **flavioillanesgonzales/flavioillanesgonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
