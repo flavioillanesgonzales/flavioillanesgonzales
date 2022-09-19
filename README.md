@@ -15,6 +15,7 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img height="43" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
 
 ### FrameWorks & Library
 <code><img height="43" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></code>
@@ -52,20 +53,9 @@
 <code><img height="43" src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/payarafish/payarafish-ar21.svg"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
+<code><img height="43" src="https://camo.githubusercontent.com/2368b773e142e522b070fed235d65c4a0236762ca0d6f638454384f06449989b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77696c64666c792f77696c64666c792d617232312e737667"></code>
 
 ## 👋 Keep in touch
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioillanesgonzales-2864b51b8/)
-<!--
-**flavioillanesgonzales/flavioillanesgonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
