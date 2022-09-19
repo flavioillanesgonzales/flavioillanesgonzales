@@ -37,8 +37,9 @@
 
 ### I Code in
 <code><img height="43" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="43" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+<code><img height="43" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png"></code>
 <code><img height="43" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
+<code><img height="43" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"></code>
 
 ### Technologies
 <code><img height="43" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
